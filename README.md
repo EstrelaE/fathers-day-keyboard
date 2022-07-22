@@ -4,7 +4,7 @@ A "keyboard" that plays the words of a lullaby my father wrote for me as a baby 
 Ignore my bad voice, until I have a recording of him singing, we have to suffer... I actually had a cold when recording, so It's not all my lack of talent!
 **Link to project:** https://vamos-la-dormir.netlify.app/
 
-![alt tag](https://i.postimg.cc/s2Vxnb5C/Screen-Shot-2022-07-22-at-14-57-07.png)
+![alt tag](https://i.postimg.cc/FKV46RNT/Screen-Shot-2022-07-22-at-14-55-15.png)
 
 ## How It's Made:
 
